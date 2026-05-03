@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED SVG HEADER — desc sans & -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0b14,50:1a0533,100:050505&text=OKANE.SH&fontColor=a855f7&fontSize=72&fontAlignY=55&desc=Ing%C3%A9nieur%20R%C3%A9seaux%20%2B%20Syst%C3%A8mes%20%C2%B7%20Freelance&descColor=71717a&descSize=18&descAlignY=72&animation=fadeIn&stroke=a855f7&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0b14,50:1a0533,100:050505&text=OKANE.ZIP&fontColor=a855f7&fontSize=72&fontAlignY=55&desc=Ing%C3%A9nieur%20R%C3%A9seaux%20%2B%20Syst%C3%A8mes%20%C2%B7%20Freelance&descColor=71717a&descSize=18&descAlignY=72&animation=fadeIn&stroke=a855f7&strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Protection+DDoS+%2F+WAF+Layer+7;CDN+multi-PoP+haute+disponibilit%C3%A9;Hardening+Linux+administration+syst%C3%A8me;WireGuard+%C2%B7+Nginx+%C2%B7+Proxmox+%C2%B7+Docker;Full+Remote+depuis+la+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
