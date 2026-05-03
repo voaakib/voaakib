@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED SVG HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0b14,50:1a0533,100:050505&text=OKANE.SH&fontColor=a855f7&fontSize=72&fontAlignY=55&desc=Ingénieur%20Réseaux%20%26%20Systèmes%20·%20Freelance&descColor=71717a&descSize=18&descAlignY=72&animation=fadeIn&stroke=a855f7&strokeWidth=1" width="100%"/>
+<!-- ANIMATED SVG HEADER — & encodé en %26 pour éviter xmlParseEntityRef -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0b14,50:1a0533,100:050505&text=OKANE.SH&fontColor=a855f7&fontSize=72&fontAlignY=55&desc=Ing%C3%A9nieur%20R%C3%A9seaux%20%26%20Syst%C3%A8mes%20%C2%B7%20Freelance&descColor=71717a&descSize=18&descAlignY=72&animation=fadeIn&stroke=a855f7&strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Protection+DDoS+%2F+WAF+Layer+7;CDN+multi-PoP+%26+haute+disponibilit%C3%A9;Hardening+Linux+%26+administration+syst%C3%A8me;WireGuard+%C2%B7+Nginx+%C2%B7+Proxmox+%C2%B7+Docker;Full+Remote+depuis+la+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
@@ -50,6 +50,7 @@ experience:
 availability:
   status   : OPEN
   type     : ["Mission ponctuelle", "Contrat longue durée"]
+  site     : https://okane.sh
 ```
 
 ---
@@ -58,9 +59,9 @@ availability:
 
 ## `⟨ MÉTRIQUES ⟩`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=voaakib&show_icons=true&theme=radical&bg_color=050505&title_color=a855f7&text_color=f3f4f6&icon_color=a855f7&border_color=1e1b2e&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats+GitHub" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=voaakib&show_icons=true&theme=radical&bg_color=050505&title_color=a855f7&text_color=f3f4f6&icon_color=a855f7&border_color=1e1b2e&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats%20GitHub&hide_border=false" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaakib&theme=radical&bg_color=050505&title_color=a855f7&text_color=f3f4f6&border_color=1e1b2e&layout=compact&langs_count=6&custom_title=Langages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaakib&theme=radical&bg_color=050505&title_color=a855f7&text_color=f3f4f6&border_color=1e1b2e&layout=compact&langs_count=6&custom_title=Langages&hide_border=false" />
 
 <br/><br/>
 
@@ -78,6 +79,7 @@ availability:
 
 <br/>
 
+![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-grey?style=for-the-badge)
@@ -180,9 +182,7 @@ availability:
 
 <br/>
 
-[![Email](https://img.shields.io/badge/admin@okane.sh-CONTACT-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0b14)](mailto:admin@okane.sh)
-&nbsp;&nbsp;
-[![Site](https://img.shields.io/badge/okane.sh-PORTFOLIO-6b21a8?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d0b14)](https://okane.sh)
+[![Site](https://img.shields.io/badge/okane.sh-PORTFOLIO-a855f7?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d0b14)](https://okane.sh)
 
 <br/>
 
@@ -191,8 +191,6 @@ availability:
 │  [STATUT]    ● Disponible                            │
 │  [TYPE]      Mission ponctuelle ou contrat           │
 │  [MODE]      Full remote — France                    │
-│  [URGENCE]   Astreinte possible                      │
-│  [RÉPONSE]   Sous 24h (UTC+1)                        │
 └──────────────────────────────────────────────────────┘
 ```
 
