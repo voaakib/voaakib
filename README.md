@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED SVG HEADER — & encodé en %26 pour éviter xmlParseEntityRef -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0b14,50:1a0533,100:050505&text=OKANE.SH&fontColor=a855f7&fontSize=72&fontAlignY=55&desc=Ing%C3%A9nieur%20R%C3%A9seaux%20%26%20Syst%C3%A8mes%20%C2%B7%20Freelance&descColor=71717a&descSize=18&descAlignY=72&animation=fadeIn&stroke=a855f7&strokeWidth=1" width="100%"/>
+<!-- ANIMATED SVG HEADER — desc sans & -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0b14,50:1a0533,100:050505&text=OKANE.SH&fontColor=a855f7&fontSize=72&fontAlignY=55&desc=Ing%C3%A9nieur%20R%C3%A9seaux%20%2B%20Syst%C3%A8mes%20%C2%B7%20Freelance&descColor=71717a&descSize=18&descAlignY=72&animation=fadeIn&stroke=a855f7&strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Protection+DDoS+%2F+WAF+Layer+7;CDN+multi-PoP+%26+haute+disponibilit%C3%A9;Hardening+Linux+%26+administration+syst%C3%A8me;WireGuard+%C2%B7+Nginx+%C2%B7+Proxmox+%C2%B7+Docker;Full+Remote+depuis+la+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Protection+DDoS+%2F+WAF+Layer+7;CDN+multi-PoP+haute+disponibilit%C3%A9;Hardening+Linux+administration+syst%C3%A8me;WireGuard+%C2%B7+Nginx+%C2%B7+Proxmox+%C2%B7+Docker;Full+Remote+depuis+la+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
@@ -75,7 +75,7 @@ availability:
 
 ## `⟨ TECHNICAL STACK ⟩`
 
-**`— RÉSEAU & SÉCURITÉ —`**
+**`— RÉSEAU · SÉCURITÉ —`**
 
 <br/>
 
@@ -88,7 +88,7 @@ availability:
 
 <br/>
 
-**`— SYSTÈMES & LINUX —`**
+**`— SYSTÈMES · LINUX —`**
 
 <br/>
 
@@ -99,7 +99,7 @@ availability:
 
 <br/>
 
-**`— INFRA & MONITORING —`**
+**`— INFRA · MONITORING —`**
 
 <br/>
 
@@ -143,7 +143,7 @@ availability:
 | Métrique | Résultat |
 |---|---|
 | 🔐 VPN | **WireGuard chiffré** |
-| 🗄️ Base de données | **Segmentée & isolée** |
+| 🗄️ Base de données | **Segmentée et isolée** |
 | 📅 Incidents | **0 en 12 mois** |
 
 </details>
@@ -191,6 +191,8 @@ availability:
 │  [STATUT]    ● Disponible                            │
 │  [TYPE]      Mission ponctuelle ou contrat           │
 │  [MODE]      Full remote — France                    │
+│  [URGENCE]   Astreinte possible                      │
+│  [RÉPONSE]   Sous 24h (UTC+1)                        │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -198,6 +200,6 @@ availability:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:050505,50:1a0533,100:0d0b14&section=footer" width="100%"/>
 
-*© 2026 OKANE.SH — Ingénieur Réseaux & Systèmes Freelance · France*
+*© 2026 OKANE.SH — Ingénieur Réseaux et Systèmes Freelance · France*
 
 </div>
