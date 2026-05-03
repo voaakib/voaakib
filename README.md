@@ -59,10 +59,7 @@ availability:
 
 ## `⟨ MÉTRIQUES ⟩`
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=voaakib&theme=radical" />
-&nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voaakib&theme=radical" />
-<br/><br/>
+
  
 <img src="https://streak-stats.demolab.com?user=voaakib&theme=radical&background=050505&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=71717a&dates=71717a&currStreakNum=f3f4f6&sideNums=f3f4f6&border=1e1b2e&mode=weekly" />
 </div>
