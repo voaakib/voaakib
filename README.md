@@ -197,6 +197,6 @@ availability:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:050505,50:1a0533,100:0d0b14&section=footer" width="100%"/>
 
-*© 2026 OKANE.SH — Ingénieur Réseaux et Systèmes Freelance · France*
+*© 2026 OKANE.ZIP — Ingénieur Réseaux et Systèmes Freelance · France*
 
 </div>
