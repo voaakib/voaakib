@@ -32,7 +32,7 @@
 </div>
 
 ```yaml
-# okane.sh — Ingénieur Réseaux & Systèmes · Freelance
+# okane.zip — Ingénieur Réseaux & Systèmes · Freelance
 # ─────────────────────────────────────────────────────
 
 identity:
@@ -50,7 +50,7 @@ experience:
 availability:
   status   : OPEN
   type     : ["Mission ponctuelle", "Contrat longue durée"]
-  site     : https://okane.sh
+  site     : https://okane.zip
 ```
 
 ---
@@ -182,7 +182,7 @@ availability:
 
 <br/>
 
-[![Site](https://img.shields.io/badge/okane.sh-PORTFOLIO-a855f7?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d0b14)](https://okane.sh)
+[![Site](https://img.shields.io/badge/okane.zip-PORTFOLIO-a855f7?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d0b14)](https://okane.zip)
 
 <br/>
 
